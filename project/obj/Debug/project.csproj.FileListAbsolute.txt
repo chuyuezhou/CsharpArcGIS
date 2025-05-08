@@ -1,0 +1,5 @@
+D:\document\documents_in_desktop\major\GIS\GIS_design\project\project\bin\Debug\project.exe.config
+D:\document\documents_in_desktop\major\GIS\GIS_design\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\document\documents_in_desktop\major\GIS\GIS_design\project\project\obj\Debug\project.Form1.resources
+D:\document\documents_in_desktop\major\GIS\GIS_design\project\project\obj\Debug\project.Properties.Resources.resources
+D:\document\documents_in_desktop\major\GIS\GIS_design\project\project\obj\Debug\project.csproj.GenerateResource.Cache
